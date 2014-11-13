@@ -1,3 +1,3 @@
-##TO SPARSE FORMAT 
+###TO SPARSE FORMAT 
 
-_Lee el fichero (matricial) que se le pasa por linea de comandos y lo convierte a Sparse_Format._
+_Lee el fichero (matricial) que se le pasa por linea de comandos y lo convierte a Sparse Format._
